@@ -15,7 +15,7 @@
 
 <h3 align="center">A diligent Higher degree technician in Administrator of Computer Systems in the Network and 3D Animator, Games and Interactive Environments from Spain</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc&theme=onedark" alt="Axlfc" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc&theme=onedark" alt="Axlfc" /></a> 
 
 
 <div align="center">&nbsp;
@@ -24,7 +24,7 @@
 
 <!-- <p align="right"> -->
 
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="600" height="400" alt="Axlfc" />
+<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="600" height="400" alt="Axlfc" /></p>
 
 <!-- </p> -->
 
