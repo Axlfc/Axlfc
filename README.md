@@ -41,9 +41,6 @@
 
 <img align="" src="https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&locale=en" width="600" height="400" alt="Axlfc">
 
-<!-- <p align="center"> -->
-<img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Axlfc&show_icons=true&locale=en&layout=compact" width="600" height="400" alt="Axlfc" />
-
 <!-- <p align="right"> -->
 
 <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc" width="600" height="400" alt="Axlfc" />
