@@ -1,5 +1,4 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Axlfc&label=Profile%20views&color=0e75b6&style=flat" alt="Axlfc" /> </p>
-
 <h1 align="center">Axlfc</h1>
 
 <p align="center">
@@ -17,14 +16,7 @@
 <h3 align="center">A diligent Higher degree technician in Administrator of Computer Systems in the Network and 3D Animator, Games and Interactive Environments from Spain</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc" alt="Axlfc" /></a> </p>
-
-
-<div align="center">&nbsp;
-
 <img align="" src="https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&locale=en" width="600" height="400" alt="Axlfc">
-
-<!-- <p align="right"> -->
-
 <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc" width="600" height="400" alt="Axlfc" />
 
 <!-- </p> -->
