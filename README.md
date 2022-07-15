@@ -15,11 +15,9 @@
 
 <h3 align="center">A diligent Higher degree technician in Administrator of Computer Systems in the Network and 3D Animator, Games and Interactive Environments from Spain</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc&theme=onedark" alt="Axlfc" /></a> 
+<p align="center"> <div align="center">&nbsp; <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="600" height="400" alt="Axlfc" /></p>
 
-<div align="center">&nbsp;
-
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="600" height="400" alt="Axlfc" /></p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc&theme=onedark" alt="Axlfc" /></a> 
 
 </p> 
 
@@ -29,7 +27,7 @@
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axlfc&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=onedark" />
 </a>
 <a href="https://github.com/Axlfc/Axlfc">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=onedark" alt="Axlfc's GitHub Stats" />
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=dark" alt="Axlfc's GitHub Stats" />
 </a>
 
 <p align="center">- 🤔 I’m looking for help with <a href="https://github.com/Axlfc/Linux-Auto-Customizer">a Linux auto-customization tool in BASH</a> </p>
