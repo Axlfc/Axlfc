@@ -1,21 +1,20 @@
 <h1 align="center">Axlfc</h1>
-<h3 align="center">A passionate Higher degree technician in Administrator of Computer Systems in the Network and 3D Animator, Games and Interactive Environments from Spain</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Axlfc&label=Profile%20views&color=0e75b6&style=flat" alt="Axlfc" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc" alt="Axlfc" /></a> </p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Axlfc)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Axlfc)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/axelcurros)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelcurros/)
-[![Blogger Badge](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://Axlfc.blogspot.com/)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/axljuega)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/axelaxel12)
 </p>
+
+<h3 align="center">A passionate Higher degree technician in Administrator of Computer Systems in the Network and 3D Animator, Games and Interactive Environments from Spain</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Axlfc&label=Profile%20views&color=0e75b6&style=flat" alt="Axlfc" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc" alt="Axlfc" /></a> </p>
 
 
 <div align="center">&nbsp;
