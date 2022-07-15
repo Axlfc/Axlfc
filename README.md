@@ -2,6 +2,7 @@
 
 <p align="center">
 
+[![Steam Badge](https://img.shields.io/badge/Steam-100000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/axelaxel12/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Axlfc)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Axlfc)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/axelcurros)
@@ -10,7 +11,7 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/axelaxel12)
 </p>
 
-<h3 align="center">A passionate Higher degree technician in Administrator of Computer Systems in the Network and 3D Animator, Games and Interactive Environments from Spain</h3>
+<h3 align="center">A diligent Higher degree technician in Administrator of Computer Systems in the Network and 3D Animator, Games and Interactive Environments from Spain</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Axlfc&label=Profile%20views&color=0e75b6&style=flat" alt="Axlfc" /> </p>
 
