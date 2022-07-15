@@ -4,25 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Axlfc&label=Profile%20views&color=0e75b6&style=flat" alt="Axlfc" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc" alt="Axlfc" /></a> </p>
-<h3 align="center">Languages:</h3>
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.javascript.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
-<a href="https://github.com/Axlfc/Axlfc">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axlfc&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Axlfc/Axlfc">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Axlfc's GitHub Stats" />
-</a>
-
-<p align="center">- 🤔 I’m looking for help with <a href="https://github.com/Axlfc/Linux-Auto-Customizer">a Linux auto-customization tool in BASH</a> </p>
-
-<br>
-
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -46,5 +27,25 @@
 <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc" width="600" height="400" alt="Axlfc" />
 
 <!-- </p> -->
+
+<h3 align="center">Languages:</h3>
+
+<a href="https://github.com/Axlfc/Axlfc">
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axlfc&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Axlfc/Axlfc">
+  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Axlfc's GitHub Stats" />
+</a>
+
+<p align="center">- 🤔 I’m looking for help with <a href="https://github.com/Axlfc/Linux-Auto-Customizer">a Linux auto-customization tool in BASH</a> </p>
+
+<br>
+
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://www.javascript.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</p>
 
 </div>
