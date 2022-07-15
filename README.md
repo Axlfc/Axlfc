@@ -24,7 +24,7 @@
 
 <!-- <p align="right"> -->
 
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc" width="600" height="400" alt="Axlfc" />
+<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="600" height="400" alt="Axlfc" />
 
 <!-- </p> -->
 
