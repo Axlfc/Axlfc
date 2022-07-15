@@ -17,16 +17,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc&theme=onedark" alt="Axlfc" /></a> 
 
-
-<div align="right">&nbsp;
-
 <img align="" src="https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&locale=en&theme=onedark" width="600" height="400" alt="Axlfc">
-
-<!-- <p align="right"> -->
 
 <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="600" height="400" alt="Axlfc" /></p>
 
-<!-- </p> -->
+</p> 
 
 <h3 align="center">Languages:</h3>
 
