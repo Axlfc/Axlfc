@@ -13,7 +13,7 @@
 [![Paypal Badge](https://img.shields.io/badge/Paypal-ffffff?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/axelcurros)
 </p>
 
-<h3 align="center">A diligent Higher degree technician in Administrator of Computer Systems in the Network and 3D Animator, Games and Interactive Environments from Spain</h3>
+<h3 align="center">A diligent Higher degree technician in Administrator of Computer Systems in the Network and 3D Animator, Games and Interactive Environments and a Magician from Spain</h3>
 
 <p align="center"> <div align="center">&nbsp; <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="600" height="400" alt="Axlfc" />
 
