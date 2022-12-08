@@ -24,11 +24,10 @@
 <p align="center">
 Currently listening to:
 </p>
-<div style="text-align:center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1153971537&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&background_color=false)](https://open.spotify.com/user/1153971537)
-
-</div>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1153971537&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&background_color=false" />
+</p>
 
 <p align="center">- 🤔 I’m looking for help with <a href="https://github.com/Axlfc/Linux-Auto-Customizer">a Linux auto-customization tool in BASH</a> </p>
 
