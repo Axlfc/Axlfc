@@ -19,8 +19,6 @@
 </a>
 </p>
 
-<br>
-
 <p align="center">
 Currently listening to:
 </p>
