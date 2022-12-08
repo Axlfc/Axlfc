@@ -19,6 +19,28 @@
 </a>
 </p>
 
+<br>
+Currently listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/1153971537)
+
+<p align="center">- 🤔 I’m looking for help with <a href="https://github.com/Axlfc/Linux-Auto-Customizer">a Linux auto-customization tool in BASH</a> </p>
+
+<br>
+
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  <a href="https://www.javascript.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</p>
+
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
 <p align="center"> <div align="center">&nbsp; <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="600" height="400" alt="Axlfc" />
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc&theme=onedark&column=4" alt="Axlfc" /></a>
@@ -33,15 +55,5 @@
   <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=dark" alt="Axlfc's GitHub Stats" />
 </a>
 
-<p align="center">- 🤔 I’m looking for help with <a href="https://github.com/Axlfc/Linux-Auto-Customizer">a Linux auto-customization tool in BASH</a> </p>
 
-<br>
-
-<p align="center"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.javascript.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
-
-</div>
+</details>
