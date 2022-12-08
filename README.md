@@ -39,8 +39,6 @@ Currently listening to:
 
 <details>
 <summary>📈 Stats</summary>
-<br>
-My Github Stats
 
 <p align="center"> <div align="center">&nbsp; <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="600" height="400" alt="Axlfc" />
 
