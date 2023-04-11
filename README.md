@@ -11,6 +11,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/axelcurros)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/axelcurros/)
 [![Paypal Badge](https://img.shields.io/badge/Paypal-ffffff?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/axelcurros)
+[![Revolut Badge](https://img.shields.io/badge/Revolut-ffffff?style=for-the-badge&logo=paypal&logoColor=white)](https://revolut.me/afaces)
 </p>
 
 <p align="center">
