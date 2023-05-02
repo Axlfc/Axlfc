@@ -30,23 +30,23 @@ Currently listening to:
 
 <br>
 
-<p align="center"> 
-  <a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" /> </a>
-  <a href="https://www.github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" /> </a>
-  <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" /> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=py" /> </a>
-  <a href="https://www.javascript.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" /> </a>
-  <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://skillicons.dev/icons?i=md" /> </a> 
-  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>
+<p align="center">
+  <a href="https://www.ableton.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=ableton" /> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://skillicons.dev/icons?i=bash" /> </a> 
-  <a href="https://en.wikipedia.org/wiki/PowerShell" target="_blank"> <img src="https://skillicons.dev/icons?i=powershell" /> </a>
+  <a href="https://www.blender.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=blender" /> </a>
+  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>
+  <a href="https://www.github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" /> </a>  
+  <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" /> </a>  
+  <a href="https://www.javascript.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" /> </a>
   <a href="https://www.latex-project.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=latex" /> </a> 
-  <a href="https://www.adobe.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" /> </a> 
+  <a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" /> </a>
+  <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://skillicons.dev/icons?i=md" /> </a> 
+  <a href="https://en.wikipedia.org/wiki/PowerShell" target="_blank"> <img src="https://skillicons.dev/icons?i=powershell" /> </a>
   <a href="https://www.adobe.com" target="_blank"> <img src="https://skillicons.dev/icons?i=pr" /> </a>
+  <a href="https://www.adobe.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" /> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=py" /> </a>
   <a href="https://unity.com" target="_blank"> <img src="https://skillicons.dev/icons?i=unity" /> </a>
   <a href="https://www.unrealengine.com" target="_blank"> <img src="https://skillicons.dev/icons?i=unreal" /> </a>
-  <a href="https://www.blender.org/" target="_blank"> <img src="https://skillicons.dev/icons?i=blender" /> </a>
-  <a href="https://www.ableton.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=ableton" /> </a>
 </p>
 
 
