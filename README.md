@@ -35,7 +35,6 @@ Currently listening to:
   <a href="https://www.github.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=git" /> </a>
   <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" /> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=py" /> </a>
-  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://skillicons.dev/icons?i=selenium" /> </a>  
   <a href="https://www.javascript.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" /> </a>
   <a href="https://es.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://skillicons.dev/icons?i=md" /> </a> 
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>
