@@ -16,7 +16,7 @@
 
 <p align="center">
 <a href="https://github.com/axlfc">
-    <img src="https://readme-typing-svg.demolab.com/?font=Helvetica&size=16&duration=2500&pause=100&multiline=true&width=512&height=100&lines=Axel+Fernández+Curros;Administrator+of+Computer+Systems+in+the+Network;3D+Animator,+Games+and+Interactive+Environments;Magician+from+Spain" alt="Axlfc" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Helvetica&size=16&duration=2500&pause=100&multiline=true&width=512&height=110&lines=Axel+Fern%C3%A1ndez+Curros;Videogame+Development+and+Virtual+Reality+Specialist;Administrator+of+Computer+Systems+in+the+Network;3D+Animator,+Games+and+Interactive+Environments;Magician+from+Spain" alt="Axlfc" />
 </a>
 </p>
 
