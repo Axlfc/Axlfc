@@ -32,6 +32,7 @@ Currently listening to:
 
 <p align="center">
   <a href="https://www.ableton.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ableton" /> </a>
+  <a href="https://www.arduino.cc" target="_blank"> <img src="https://skillicons.dev/icons?i=arduino" /> </a>
   <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://skillicons.dev/icons?i=bash" /> </a> 
   <a href="https://www.blender.org" target="_blank"> <img src="https://skillicons.dev/icons?i=blender" /> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>
