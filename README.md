@@ -36,6 +36,7 @@ Currently listening to:
   <a href="https://www.blender.org" target="_blank"> <img src="https://skillicons.dev/icons?i=blender" /> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>
   <a href="https://es.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" /> </a>
+  <a href="https://dart.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" /> </a>
   <a href="https://www.djangoproject.com" target="_blank"> <img src="https://skillicons.dev/icons?i=django" /> </a>
   <a href="https://www.github.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" /> </a>  
   <a href="https://www.jetbrains.com" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" /> </a>  
