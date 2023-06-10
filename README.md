@@ -35,7 +35,8 @@ Currently listening to:
   <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://skillicons.dev/icons?i=bash" /> </a> 
   <a href="https://www.blender.org" target="_blank"> <img src="https://skillicons.dev/icons?i=blender" /> </a>
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>
-  <a href="https://es.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" /> </a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://skillicons.dev/icons?i=cs" /> </a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" /> </a>
   <a href="https://dart.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" /> </a>
   <a href="https://www.djangoproject.com" target="_blank"> <img src="https://skillicons.dev/icons?i=django" /> </a>
   <a href="https://www.github.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" /> </a>  
@@ -43,7 +44,7 @@ Currently listening to:
   <a href="https://www.javascript.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" /> </a>
   <a href="https://jekyllrb.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40" height="40"/> </a>  
   <a href="https://www.latex-project.org" target="_blank"> <img src="https://skillicons.dev/icons?i=latex" /> </a> 
-  <a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" /> </a>
+  <a href="https://en.wikipedia.org/wiki/GNU/Linux" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" /> </a>
   <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://skillicons.dev/icons?i=md" /> </a>
   <a href="https://www.mongodb.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" /> </a>  
   <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" /> </a>  
