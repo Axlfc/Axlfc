@@ -63,6 +63,7 @@ Currently listening to:
   <a href="https://unity.com" target="_blank"> <img src="https://skillicons.dev/icons?i=unity" /> </a>
   <a href="https://www.unrealengine.com" target="_blank"> <img src="https://skillicons.dev/icons?i=unreal" /> </a>
   <a href="https://www.vim.org" target="_blank"> <img src="https://skillicons.dev/icons?i=vim" /> </a>
+  <a href="https://wordpress.com" target="_blank"> <img src="https://skillicons.dev/icons?i=wordpress" /> </a>
 </p>
 
 
