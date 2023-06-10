@@ -48,18 +48,21 @@ Currently listening to:
   <a href="https://en.wikipedia.org/wiki/GNU/Linux" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" /> </a>
   <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://skillicons.dev/icons?i=md" /> </a>
   <a href="https://www.mongodb.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" /> </a>  
-  <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" /> </a>  
+  <a href="https://www.nginx.com" target="_blank"> <img src="https://skillicons.dev/icons?i=nginx" /> </a>  
+  <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" /> </a>
+  <a href="https://www.perl.org" target="_blank"> <img src="https://skillicons.dev/icons?i=perl" /> </a> 
+  <a href="https://www.adobe.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" /> </a> 
   <a href="https://www.php.net" target="_blank"> <img src="https://skillicons.dev/icons?i=php" /> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" /> </a>
   <a href="https://en.wikipedia.org/wiki/PowerShell" target="_blank"> <img src="https://skillicons.dev/icons?i=powershell" /> </a>
   <a href="https://www.adobe.com" target="_blank"> <img src="https://skillicons.dev/icons?i=pr" /> </a>
-  <a href="https://www.adobe.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" /> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=py" /> </a>
   <a href="https://pytorch.org" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" /> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://skillicons.dev/icons?i=sass" /> </a>
   <a href="https://www.selenium.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=selenium" /> </a>
   <a href="https://unity.com" target="_blank"> <img src="https://skillicons.dev/icons?i=unity" /> </a>
   <a href="https://www.unrealengine.com" target="_blank"> <img src="https://skillicons.dev/icons?i=unreal" /> </a>
+  <a href="https://www.vim.org" target="_blank"> <img src="https://skillicons.dev/icons?i=vim" /> </a>
 </p>
 
 
