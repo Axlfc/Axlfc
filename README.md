@@ -3,7 +3,6 @@
 
 <p align="center">
 
-[![Steam Badge](https://img.shields.io/badge/Steam-100000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/axelaxel12/)
 [![DEV Badge](https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/axlfc)
 [![Medium Badge](https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@axelfernandezcurros)
 [![Gist Badge](https://img.shields.io/badge/gist.github-100000?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/Axlfc)
@@ -32,57 +31,43 @@ Currently listening to:
 
 <p align="center">
   <a href="https://www.ableton.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ableton" /> </a>
-  <a href="https://www.arduino.cc" target="_blank"> <img src="https://skillicons.dev/icons?i=arduino" /> </a>
   <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://skillicons.dev/icons?i=bash" /> </a> 
   <a href="https://www.blender.org" target="_blank"> <img src="https://skillicons.dev/icons?i=blender" /> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://skillicons.dev/icons?i=bootstrap" /> </a>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://skillicons.dev/icons?i=cs" /> </a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" /> </a>
   <a href="https://dart.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" /> </a>
-  <a href="https://www.djangoproject.com" target="_blank"> <img src="https://skillicons.dev/icons?i=django" /> </a>
   <a href="https://www.github.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" /> </a>  
-  <a href="https://www.jetbrains.com" target="_blank"> <img src="https://skillicons.dev/icons?i=idea" /> </a>  
   <a href="https://www.javascript.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" /> </a>
   <a href="https://jekyllrb.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40" height="40"/> </a>  
   <a href="https://www.latex-project.org" target="_blank"> <img src="https://skillicons.dev/icons?i=latex" /> </a> 
   <a href="https://en.wikipedia.org/wiki/GNU/Linux" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" /> </a>
   <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://skillicons.dev/icons?i=md" /> </a>
-  <a href="https://www.mongodb.com" target="_blank"> <img src="https://skillicons.dev/icons?i=mongodb" /> </a>  
-  <a href="https://www.nginx.com" target="_blank"> <img src="https://skillicons.dev/icons?i=nginx" /> </a>  
-  <a href="https://nodejs.org" target="_blank"> <img src="https://skillicons.dev/icons?i=nodejs" /> </a>
-  <a href="https://www.perl.org" target="_blank"> <img src="https://skillicons.dev/icons?i=perl" /> </a> 
   <a href="https://www.adobe.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" /> </a> 
-  <a href="https://www.php.net" target="_blank"> <img src="https://skillicons.dev/icons?i=php" /> </a>
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" /> </a>
   <a href="https://en.wikipedia.org/wiki/PowerShell" target="_blank"> <img src="https://skillicons.dev/icons?i=powershell" /> </a>
   <a href="https://www.adobe.com" target="_blank"> <img src="https://skillicons.dev/icons?i=pr" /> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=py" /> </a>
-  <a href="https://pytorch.org" target="_blank"> <img src="https://skillicons.dev/icons?i=pytorch" /> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://skillicons.dev/icons?i=sass" /> </a>
-  <a href="https://www.selenium.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=selenium" /> </a>
   <a href="https://unity.com" target="_blank"> <img src="https://skillicons.dev/icons?i=unity" /> </a>
   <a href="https://www.unrealengine.com" target="_blank"> <img src="https://skillicons.dev/icons?i=unreal" /> </a>
-  <a href="https://www.vim.org" target="_blank"> <img src="https://skillicons.dev/icons?i=vim" /> </a>
-  <a href="https://wordpress.com" target="_blank"> <img src="https://skillicons.dev/icons?i=wordpress" /> </a>
 </p>
 
 
 <details>
 <summary>📈 Stats</summary>
 
-<p align="center"> <div align="center">&nbsp; <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="600" height="400" alt="Axlfc" />
-
+<p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc&theme=onedark&column=4" alt="Axlfc" /></a>
 </p> 
 
-<h3 align="center">Languages:</h3>
-
-<a href="https://github.com/Axlfc/Axlfc">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axlfc&layout=compact&langs_count=10&hide=asp,php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=onedark" />
-</a>
-<a href="https://github.com/Axlfc/Axlfc">
-  <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=dark" alt="Axlfc's GitHub Stats" />
-</a>
+<h3 id="top-languages-used-in-repository">Top Languages Used in Repository</h3>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axlfc&amp;theme=dracula" alt="Top Languages Used Card"></p>
+<h3 id="top-languages-in-commits">Top Languages in Commits</h3>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Axlfc&amp;theme=dracula" alt="Top Languages in Commits Card"></p>
+<h3 id="github-stats">GitHub Stats</h3>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Axlfc&amp;theme=dracula" alt="GitHub Stats Card"></p>
+<h3 id="productive-time">Productive Time</h3>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Axlfc&amp;theme=dracula&amp;utcOffset=0" alt="Productive Time Card"></p>
+<h3 id="streak-stats">Productive Streak</h3>
+<p align="center"> <div align="center">&nbsp; <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="400" height="200" alt="Axlfc" />
 
 
 </details>
