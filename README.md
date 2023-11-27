@@ -54,20 +54,11 @@ Currently listening to:
 <details>
 <summary>📈 Stats</summary>
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc&theme=onedark&column=4" alt="Axlfc" /></a>
-</p> 
-
-<h3 id="top-languages-used-in-repository">Top Languages Used in Repository</h3>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Axlfc&theme=onedark&column=4" alt="Axlfc" /></a></p> 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Axlfc&amp;theme=dracula" alt="Top Languages Used Card"></p>
-<h3 id="top-languages-in-commits">Top Languages in Commits</h3>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Axlfc&amp;theme=dracula" alt="Top Languages in Commits Card"></p>
-<h3 id="github-stats">GitHub Stats</h3>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Axlfc&amp;theme=dracula" alt="GitHub Stats Card"></p>
-<h3 id="productive-time">Productive Time</h3>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Axlfc&amp;theme=dracula&amp;utcOffset=0" alt="Productive Time Card"></p>
-<h3 id="streak-stats">Productive Streak</h3>
 <p align="center"> <div align="center">&nbsp; <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="400" height="200" alt="Axlfc" />
-
 
 </details>
