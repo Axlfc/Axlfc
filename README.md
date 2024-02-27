@@ -34,7 +34,6 @@ Currently listening to:
   <a href="https://www.gnu.org/software/bash" target="_blank"> <img src="https://skillicons.dev/icons?i=bash" /> </a> 
   <a href="https://www.blender.org" target="_blank"> <img src="https://skillicons.dev/icons?i=blender" /> </a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" /> </a>
-  <a href="https://dart.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=dart" /> </a>
   <a href="https://www.github.com" target="_blank"> <img src="https://skillicons.dev/icons?i=git" /> </a>  
   <a href="https://www.javascript.com" target="_blank"> <img src="https://skillicons.dev/icons?i=js" /> </a>
   <a href="https://jekyllrb.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" width="40" height="40"/> </a>  
@@ -42,8 +41,6 @@ Currently listening to:
   <a href="https://en.wikipedia.org/wiki/GNU/Linux" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" /> </a>
   <a href="https://en.wikipedia.org/wiki/Markdown" target="_blank"> <img src="https://skillicons.dev/icons?i=md" /> </a>
   <a href="https://www.adobe.com" target="_blank"> <img src="https://skillicons.dev/icons?i=ps" /> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://skillicons.dev/icons?i=postgres" /> </a>
-  <a href="https://en.wikipedia.org/wiki/PowerShell" target="_blank"> <img src="https://skillicons.dev/icons?i=powershell" /> </a>
   <a href="https://www.adobe.com" target="_blank"> <img src="https://skillicons.dev/icons?i=pr" /> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://skillicons.dev/icons?i=py" /> </a>
   <a href="https://unity.com" target="_blank"> <img src="https://skillicons.dev/icons?i=unity" /> </a>
