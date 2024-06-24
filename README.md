@@ -1,27 +1,16 @@
-<p align="center">
-  <a href="https://github.com/axlfc">
-    <img src="https://readme-typing-svg.demolab.com/?font=Helvetica&size=16&duration=2500&pause=100&multiline=true&width=512&height=110&lines=Axel+Fern%C3%A1ndez+Curros;Videogame+Development+and+Virtual+Reality+Specialist;Administrator+of+Computer+Systems+in+the+Network;3D+Animator,+Games+and+Interactive+Environments;Magician+from+Spain" alt="Axlfc" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Axlfc&label=Profile%20views&color=0e75b6&style=flat" alt="Axlfc" />
 </p>
 
 <p align="center">
-  Currently listening to:
-</p>
-
-<p align="center">
   <a href="https://github.com/axlfc">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=1153971537&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&background_color=false" alt="Spotify" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Helvetica&size=16&duration=2500&pause=100&multiline=true&width=512&height=110&lines=Axel+Fern%C3%A1ndez+Curros;Videogame+Development+and+Virtual+Reality+Specialist;Administrator+of+Computer+Systems+in+the+Network;3D+Animator,+Games+and+Interactive+Environments;Magician+from+Spain" alt="Axlfc" />
   </a>
 </p>
 
-<br>
-
-## Languages and Tools
 <div align="center">
+  <h1>Languages and Tools</h1>
 <table>
   <tr>
     <td align="center" width="96">
@@ -122,8 +111,9 @@
 </table>
 </div>
 
-## Contact
+## 
 <div align="center">
+  <h1>Contact</h1>
   <a href="https://dev.to/axlfc">
     <img src="https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Badge" />
   </a>
