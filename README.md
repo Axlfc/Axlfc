@@ -9,6 +9,36 @@
   </a>
 </p>
 
+
+<div align="center">
+  <h1>Contact</h1>
+  <a href="https://dev.to/axlfc">
+    <img src="https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Badge" />
+  </a>
+  <a href="https://medium.com/@axelfernandezcurros">
+    <img src="https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+  </a>
+  <a href="https://gist.github.com/Axlfc">
+    <img src="https://img.shields.io/badge/gist.github-100000?style=for-the-badge&logo=github&logoColor=white" alt="Gist Badge" />
+  </a>
+  <a href="https://gitlab.com/Axlfc">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" />
+  </a>
+  <a href="https://twitter.com/axelcurros">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/axelcurros/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://paypal.me/axelcurros">
+    <img src="https://img.shields.io/badge/Paypal-ffffff?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal Badge" />
+  </a>
+  <a href="https://revolut.me/afaces">
+    <img src="https://img.shields.io/badge/Revolut-ffffff?style=for-the-badge&logo=paypal&logoColor=white" alt="Revolut Badge" />
+  </a>
+</div>
+
+##
 <div align="center">
   <h1>Languages and Tools</h1>
 <table>
@@ -109,35 +139,6 @@
     </td>
   </tr>
 </table>
-</div>
-
-## 
-<div align="center">
-  <h1>Contact</h1>
-  <a href="https://dev.to/axlfc">
-    <img src="https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Badge" />
-  </a>
-  <a href="https://medium.com/@axelfernandezcurros">
-    <img src="https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
-  </a>
-  <a href="https://gist.github.com/Axlfc">
-    <img src="https://img.shields.io/badge/gist.github-100000?style=for-the-badge&logo=github&logoColor=white" alt="Gist Badge" />
-  </a>
-  <a href="https://gitlab.com/Axlfc">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" />
-  </a>
-  <a href="https://twitter.com/axelcurros">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/axelcurros/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://paypal.me/axelcurros">
-    <img src="https://img.shields.io/badge/Paypal-ffffff?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal Badge" />
-  </a>
-  <a href="https://revolut.me/afaces">
-    <img src="https://img.shields.io/badge/Revolut-ffffff?style=for-the-badge&logo=paypal&logoColor=white" alt="Revolut Badge" />
-  </a>
 </div>
 
 <details>
