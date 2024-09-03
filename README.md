@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Axlfc&label=Profile%20views&color=0e75b6&style=flat" alt="Axlfc" />
 </p>
@@ -9,9 +8,11 @@
   </a>
 </p>
 
-
 <div align="center">
   <h1>Contact</h1>
+  <a href="mailto:axlffcc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
   <a href="https://dev.to/axlfc">
     <img src="https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Badge" />
   </a>
@@ -38,7 +39,8 @@
   </a>
 </div>
 
-##
+---
+
 <div align="center">
   <h1>Languages and Tools</h1>
 <table>
