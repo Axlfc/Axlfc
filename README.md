@@ -10,9 +10,6 @@
 
 <div align="center">
   <h1>Contact</h1>
-  <a href="mailto:axlffcc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-  </a>
   <a href="https://dev.to/axlfc">
     <img src="https://img.shields.io/badge/dev.to-100000?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Badge" />
   </a>
@@ -36,6 +33,9 @@
   </a>
   <a href="https://revolut.me/afaces">
     <img src="https://img.shields.io/badge/Revolut-ffffff?style=for-the-badge&logo=paypal&logoColor=white" alt="Revolut Badge" />
+  </a>
+  <a href="mailto:axlffcc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </div>
 
