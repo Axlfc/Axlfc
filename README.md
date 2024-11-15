@@ -16,9 +16,6 @@
   <a href="https://medium.com/@axelfernandezcurros">
     <img src="https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
   </a>
-  <a href="https://gist.github.com/Axlfc">
-    <img src="https://img.shields.io/badge/gist.github-100000?style=for-the-badge&logo=github&logoColor=white" alt="Gist Badge" />
-  </a>
   <a href="https://gitlab.com/Axlfc">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge" />
   </a>
