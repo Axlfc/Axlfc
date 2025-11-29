@@ -87,29 +87,39 @@
 <table>
 <tr>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
-    <br><b>Linux</b>
-    <br><sub>Foundation</sub>
+    <a href="https://www.linuxfoundation.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux" />
+      <br><b>Linux</b>
+      <br><sub>Foundation</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
-    <br><b>Python</b>
-    <br><sub>PSF</sub>
+    <a href="https://www.python.org/psf-landing/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" />
+      <br><b>Python</b>
+      <br><sub>PSF</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
-    <br><b>Node.js</b>
-    <br><sub>OpenJS</sub>
+    <a href="https://openjsf.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" />
+      <br><b>Node.js</b>
+      <br><sub>OpenJS</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=blender" width="40" height="40" alt="Blender" />
-    <br><b>Blender</b>
-    <br><sub>Foundation</sub>
+    <a href="https://www.blender.org/about/foundation/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=blender" width="40" height="40" alt="Blender" />
+      <br><b>Blender</b>
+      <br><sub>Foundation</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=godot" width="40" height="40" alt="Godot" />
-    <br><b>Godot</b>
-    <br><sub>Engine</sub>
+    <a href="https://godotengine.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=godot" width="40" height="40" alt="Godot" />
+      <br><b>Godot</b>
+      <br><sub>Engine</sub>
+    </a>
   </td>
 </tr>
 </table>
@@ -118,46 +128,66 @@
 <table>
 <tr>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=debian" width="40" height="40" alt="Debian" />
-    <br><b>Debian</b>
+    <a href="https://www.debian.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=debian" width="40" height="40" alt="Debian" />
+      <br><b>Debian</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-    <br><b>PostgreSQL</b>
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br><b>PostgreSQL</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
-    <br><b>Git</b>
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" />
+      <br><b>Git</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" />
-    <br><b>Nginx</b>
+    <a href="https://nginx.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="Nginx" />
+      <br><b>Nginx</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" />
-    <br><b>Bash</b>
+    <a href="https://www.gnu.org/software/bash/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=bash" width="40" height="40" alt="Bash" />
+      <br><b>Bash</b>
+    </a>
   </td>
 </tr>
 <tr>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/signal.svg" width="40" height="40" alt="Signal" />
-    <br><b>Signal</b>
+    <a href="https://signal.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/signal.svg" width="40" height="40" alt="Signal" />
+      <br><b>Signal</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matrix.svg" width="40" height="40" alt="Matrix" />
-    <br><b>Matrix</b>
+    <a href="https://matrix.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/matrix.svg" width="40" height="40" alt="Matrix" />
+      <br><b>Matrix</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nextcloud.svg" width="40" height="40" alt="Nextcloud" />
-    <br><b>Nextcloud</b>
+    <a href="https://nextcloud.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nextcloud.svg" width="40" height="40" alt="Nextcloud" />
+      <br><b>Nextcloud</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mastodon.svg" width="40" height="40" alt="Mastodon" />
-    <br><b>Mastodon</b>
+    <a href="https://joinmastodon.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mastodon.svg" width="40" height="40" alt="Mastodon" />
+      <br><b>Mastodon</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vlcmediaplayer.svg" width="40" height="40" alt="VLC" />
-    <br><b>VLC</b>
+    <a href="https://www.videolan.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vlcmediaplayer.svg" width="40" height="40" alt="VLC" />
+      <br><b>VLC</b>
+    </a>
   </td>
 </tr>
 </table>
@@ -170,50 +200,70 @@
 <table>
 <tr>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-    <br><b>React</b>
-    <br><sub>Meta OSS</sub>
+    <a href="https://react.dev/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br><b>React</b>
+      <br><sub>Meta OSS</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
-    <br><b>VS Code</b>
-    <br><sub>Microsoft</sub>
+    <a href="https://code.visualstudio.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+      <br><b>VS Code</b>
+      <br><sub>Microsoft</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-    <br><b>GitHub</b>
-    <br><sub>Microsoft</sub>
+    <a href="https://github.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
+      <br><b>GitHub</b>
+      <br><sub>Microsoft</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claude.svg" width="40" height="40" alt="Claude" />
-    <br><b>Claude</b>
-    <br><sub>Anthropic</sub>
+    <a href="https://www.anthropic.com/claude" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claude.svg" width="40" height="40" alt="Claude" />
+      <br><b>Claude</b>
+      <br><sub>Anthropic</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare" />
-    <br><b>Cloudflare</b>
+    <a href="https://www.cloudflare.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare" />
+      <br><b>Cloudflare</b>
+    </a>
   </td>
 </tr>
 <tr>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" width="40" height="40" alt="Telegram" />
-    <br><b>Telegram</b>
+    <a href="https://telegram.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" width="40" height="40" alt="Telegram" />
+      <br><b>Telegram</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/brave.svg" width="40" height="40" alt="Brave" />
-    <br><b>Brave</b>
+    <a href="https://brave.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/brave.svg" width="40" height="40" alt="Brave" />
+      <br><b>Brave</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckduckgo.svg" width="40" height="40" alt="DuckDuckGo" />
-    <br><b>DuckDuckGo</b>
+    <a href="https://duckduckgo.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/duckduckgo.svg" width="40" height="40" alt="DuckDuckGo" />
+      <br><b>DuckDuckGo</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="40" height="40" alt="Supabase" />
-    <br><b>Supabase</b>
+    <a href="https://supabase.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" width="40" height="40" alt="Supabase" />
+      <br><b>Supabase</b>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana" />
-    <br><b>Grafana</b>
+    <a href="https://grafana.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" alt="Grafana" />
+      <br><b>Grafana</b>
+    </a>
   </td>
 </tr>
 </table>
@@ -225,29 +275,39 @@
 <table>
 <tr>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=unity" width="40" height="40" alt="Unity" />
-    <br><b>Unity</b>
-    <br><sub>GameDev</sub>
+    <a href="https://unity.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=unity" width="40" height="40" alt="Unity" />
+      <br><b>Unity</b>
+      <br><sub>GameDev</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=unreal" width="40" height="40" alt="Unreal" />
-    <br><b>Unreal</b>
-    <br><sub>Epic Games</sub>
+    <a href="https://www.unrealengine.com/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=unreal" width="40" height="40" alt="Unreal" />
+      <br><b>Unreal</b>
+      <br><sub>Epic Games</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" />
-    <br><b>Discord</b>
-    <br><sub>Comunicació</sub>
+    <a href="discord://-/users/243784474981040128" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" />
+      <br><b>Discord</b>
+      <br><sub>Comunicació</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" width="40" height="40" alt="NVIDIA" />
-    <br><b>NVIDIA</b>
-    <br><sub>GPU/CUDA</sub>
+    <a href="https://www.nvidia.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nvidia.svg" width="40" height="40" alt="NVIDIA" />
+      <br><b>NVIDIA</b>
+      <br><sub>GPU/CUDA</sub>
+    </a>
   </td>
   <td align="center" width="90">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg" width="40" height="40" alt="Spotify" />
-    <br><b>Spotify</b>
-    <br><sub>Streaming</sub>
+    <a href="https://www.spotify.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg" width="40" height="40" alt="Spotify" />
+      <br><b>Spotify</b>
+      <br><sub>Streaming</sub>
+    </a>
   </td>
 </tr>
 </table>
@@ -303,24 +363,32 @@
 <table>
 <tr>
   <td align="center" width="110">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" width="40" height="40" alt="Ollama" />
-    <br><b>Ollama</b>
-    <br><sub>🟢 Local AI</sub>
+    <a href="https://ollama.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" width="40" height="40" alt="Ollama" />
+      <br><b>Ollama</b>
+      <br><sub>🟢 Local AI</sub>
+    </a>
   </td>
   <td align="center" width="110">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40" height="40" alt="HuggingFace" />
-    <br><b>HuggingFace</b>
-    <br><sub>🟢 Open Models</sub>
+    <a href="https://huggingface.co/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="40" height="40" alt="HuggingFace" />
+      <br><b>HuggingFace</b>
+      <br><sub>🟢 Open Models</sub>
+    </a>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
-    <br><b>PyTorch</b>
-    <br><sub>🟢 Framework</sub>
+    <a href="https://pytorch.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" />
+      <br><b>PyTorch</b>
+      <br><sub>🟢 Framework</sub>
+    </a>
   </td>
   <td align="center" width="110">
-    <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
-    <br><b>TensorFlow</b>
-    <br><sub>🟡 Google</sub>
+    <a href="https://www.tensorflow.org/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" />
+      <br><b>TensorFlow</b>
+      <br><sub>🟡 Google</sub>
+    </a>
   </td>
 </tr>
 </table>
@@ -371,8 +439,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Axlfc)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@axlfc)
 [![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)](https://signal.me/#eu/Pc3bxoaj8rh3lWR4PDQWo4-XF_CXUMJUxopjpQMwe95JJUbll5FAJoqioOX1qZm0)
-
-
 
 **⚠️ No em trobaràs a:** Facebook, Instagram, WhatsApp, TikTok, Twitter/X
 
