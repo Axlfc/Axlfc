@@ -289,7 +289,7 @@
     </a>
   </td>
   <td align="center" width="90">
-    <a href="discord://-/users/243784474981040128" target="_blank">
+    <a href="https://discord.com/" target="_blank">
       <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord" />
       <br><b>Discord</b>
       <br><sub>Comunicació</sub>
