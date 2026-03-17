@@ -483,6 +483,6 @@
 <div align="center">
   <sub>
     Aquest README està hostatjat en GitHub (Microsoft) 🟡<br>
-    Considero alternatives com Codeberg, GitLab self-hosted o Gitea 🟢
+    Considero alternatives com Codeberg, GitLab self-hosted, Forgejo o Gitea 🟢
   </sub>
 </div>
