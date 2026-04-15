@@ -458,12 +458,16 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="400" alt="GitHub Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Axlfc&theme=onedark&column=3&row=2" alt="GitHub Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Axlfc&theme=radical" width="350" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Axlfc&theme=dracula" width="350" alt="Top Languages" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Axlfc&theme=dracula" width="350" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axlfc&theme=dracula" width="350" alt="Most Used Languages" />
 </div>
 
 </details>
