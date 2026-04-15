@@ -453,21 +453,23 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axlfc&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" alt="GitHub Activity Graph" />
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Axlfc&bg_color=1b1b2f&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true)](https://github.com/Axlfc)
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=onedark" width="400" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Axlfc&theme=radical" width="350" alt="GitHub Stats" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&theme=darcula&hide_border=true&include_all_commits=true&show=prs_merged_percentage)](https://github.com/Axlfc)
+&nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=darcula&hide_border=true)](https://github.com/Axlfc)
+
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Axlfc&theme=dracula" width="350" alt="Top Languages" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Axlfc&theme=dracula" width="350" alt="Productive Time" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axlfc&theme=dracula" width="350" alt="Most Used Languages" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axlfc&theme=darcula&hide_border=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/Axlfc)
+
 </div>
 
 </details>
