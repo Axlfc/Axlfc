@@ -454,13 +454,20 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Axlfc&bg_color=1b1b2f&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true)](https://github.com/Axlfc)
+<!-- [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Axlfc&bg_color=1b1b2f&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true)](https://github.com/Axlfc) -->
+
+![GitHub Profile Trophy](https://gitascii.com/api/Axlfc?widgets=profile-trophy)
 
 </div>
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&theme=darcula&hide_border=true&include_all_commits=true&show=prs_merged_percentage)](https://github.com/Axlfc)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Axlfc&show_icons=true&theme=darcula&hide_border=true&include_all_commits=true&show=prs_merged_percentage)](https://github.com/Axlfc) -->
+
+<!-- ![ASCII](https://gitascii.com/api/Axlfc?widget=ascii) -->
+
+![GitHub Readme Stats](https://gitascii.com/api/Axlfc?widgets=github-readme-stats)
+
 &nbsp;
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Axlfc&theme=darcula&hide_border=true)](https://github.com/Axlfc)
 
@@ -469,6 +476,7 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axlfc&theme=darcula&hide_border=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/Axlfc)
+
 
 </div>
 
